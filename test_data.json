@@ -1,0 +1,2004 @@
+{
+    "test": [
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00010-000/BraTS-MEN-00010-000-t2f.nii.gz",
+                "BraTS-MEN-00010-000/BraTS-MEN-00010-000-t1c.nii.gz",
+                "BraTS-MEN-00010-000/BraTS-MEN-00010-000-t1n.nii.gz",
+                "BraTS-MEN-00010-000/BraTS-MEN-00010-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00010-000/BraTS-MEN-00010-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00017-000/BraTS-MEN-00017-000-t2f.nii.gz",
+                "BraTS-MEN-00017-000/BraTS-MEN-00017-000-t1c.nii.gz",
+                "BraTS-MEN-00017-000/BraTS-MEN-00017-000-t1n.nii.gz",
+                "BraTS-MEN-00017-000/BraTS-MEN-00017-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00017-000/BraTS-MEN-00017-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00022-000/BraTS-MEN-00022-000-t2f.nii.gz",
+                "BraTS-MEN-00022-000/BraTS-MEN-00022-000-t1c.nii.gz",
+                "BraTS-MEN-00022-000/BraTS-MEN-00022-000-t1n.nii.gz",
+                "BraTS-MEN-00022-000/BraTS-MEN-00022-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00022-000/BraTS-MEN-00022-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00032-000/BraTS-MEN-00032-000-t2f.nii.gz",
+                "BraTS-MEN-00032-000/BraTS-MEN-00032-000-t1c.nii.gz",
+                "BraTS-MEN-00032-000/BraTS-MEN-00032-000-t1n.nii.gz",
+                "BraTS-MEN-00032-000/BraTS-MEN-00032-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00032-000/BraTS-MEN-00032-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00034-000/BraTS-MEN-00034-000-t2f.nii.gz",
+                "BraTS-MEN-00034-000/BraTS-MEN-00034-000-t1c.nii.gz",
+                "BraTS-MEN-00034-000/BraTS-MEN-00034-000-t1n.nii.gz",
+                "BraTS-MEN-00034-000/BraTS-MEN-00034-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00034-000/BraTS-MEN-00034-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00042-000/BraTS-MEN-00042-000-t2f.nii.gz",
+                "BraTS-MEN-00042-000/BraTS-MEN-00042-000-t1c.nii.gz",
+                "BraTS-MEN-00042-000/BraTS-MEN-00042-000-t1n.nii.gz",
+                "BraTS-MEN-00042-000/BraTS-MEN-00042-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00042-000/BraTS-MEN-00042-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00059-000/BraTS-MEN-00059-000-t2f.nii.gz",
+                "BraTS-MEN-00059-000/BraTS-MEN-00059-000-t1c.nii.gz",
+                "BraTS-MEN-00059-000/BraTS-MEN-00059-000-t1n.nii.gz",
+                "BraTS-MEN-00059-000/BraTS-MEN-00059-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00059-000/BraTS-MEN-00059-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00060-000/BraTS-MEN-00060-000-t2f.nii.gz",
+                "BraTS-MEN-00060-000/BraTS-MEN-00060-000-t1c.nii.gz",
+                "BraTS-MEN-00060-000/BraTS-MEN-00060-000-t1n.nii.gz",
+                "BraTS-MEN-00060-000/BraTS-MEN-00060-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00060-000/BraTS-MEN-00060-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00067-000/BraTS-MEN-00067-000-t2f.nii.gz",
+                "BraTS-MEN-00067-000/BraTS-MEN-00067-000-t1c.nii.gz",
+                "BraTS-MEN-00067-000/BraTS-MEN-00067-000-t1n.nii.gz",
+                "BraTS-MEN-00067-000/BraTS-MEN-00067-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00067-000/BraTS-MEN-00067-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00074-005/BraTS-MEN-00074-005-t2f.nii.gz",
+                "BraTS-MEN-00074-005/BraTS-MEN-00074-005-t1c.nii.gz",
+                "BraTS-MEN-00074-005/BraTS-MEN-00074-005-t1n.nii.gz",
+                "BraTS-MEN-00074-005/BraTS-MEN-00074-005-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00074-005/BraTS-MEN-00074-005-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00077-000/BraTS-MEN-00077-000-t2f.nii.gz",
+                "BraTS-MEN-00077-000/BraTS-MEN-00077-000-t1c.nii.gz",
+                "BraTS-MEN-00077-000/BraTS-MEN-00077-000-t1n.nii.gz",
+                "BraTS-MEN-00077-000/BraTS-MEN-00077-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00077-000/BraTS-MEN-00077-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00078-000/BraTS-MEN-00078-000-t2f.nii.gz",
+                "BraTS-MEN-00078-000/BraTS-MEN-00078-000-t1c.nii.gz",
+                "BraTS-MEN-00078-000/BraTS-MEN-00078-000-t1n.nii.gz",
+                "BraTS-MEN-00078-000/BraTS-MEN-00078-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00078-000/BraTS-MEN-00078-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00088-000/BraTS-MEN-00088-000-t2f.nii.gz",
+                "BraTS-MEN-00088-000/BraTS-MEN-00088-000-t1c.nii.gz",
+                "BraTS-MEN-00088-000/BraTS-MEN-00088-000-t1n.nii.gz",
+                "BraTS-MEN-00088-000/BraTS-MEN-00088-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00088-000/BraTS-MEN-00088-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00101-000/BraTS-MEN-00101-000-t2f.nii.gz",
+                "BraTS-MEN-00101-000/BraTS-MEN-00101-000-t1c.nii.gz",
+                "BraTS-MEN-00101-000/BraTS-MEN-00101-000-t1n.nii.gz",
+                "BraTS-MEN-00101-000/BraTS-MEN-00101-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00101-000/BraTS-MEN-00101-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00106-000/BraTS-MEN-00106-000-t2f.nii.gz",
+                "BraTS-MEN-00106-000/BraTS-MEN-00106-000-t1c.nii.gz",
+                "BraTS-MEN-00106-000/BraTS-MEN-00106-000-t1n.nii.gz",
+                "BraTS-MEN-00106-000/BraTS-MEN-00106-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00106-000/BraTS-MEN-00106-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00110-000/BraTS-MEN-00110-000-t2f.nii.gz",
+                "BraTS-MEN-00110-000/BraTS-MEN-00110-000-t1c.nii.gz",
+                "BraTS-MEN-00110-000/BraTS-MEN-00110-000-t1n.nii.gz",
+                "BraTS-MEN-00110-000/BraTS-MEN-00110-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00110-000/BraTS-MEN-00110-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00111-000/BraTS-MEN-00111-000-t2f.nii.gz",
+                "BraTS-MEN-00111-000/BraTS-MEN-00111-000-t1c.nii.gz",
+                "BraTS-MEN-00111-000/BraTS-MEN-00111-000-t1n.nii.gz",
+                "BraTS-MEN-00111-000/BraTS-MEN-00111-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00111-000/BraTS-MEN-00111-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00113-000/BraTS-MEN-00113-000-t2f.nii.gz",
+                "BraTS-MEN-00113-000/BraTS-MEN-00113-000-t1c.nii.gz",
+                "BraTS-MEN-00113-000/BraTS-MEN-00113-000-t1n.nii.gz",
+                "BraTS-MEN-00113-000/BraTS-MEN-00113-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00113-000/BraTS-MEN-00113-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00133-000/BraTS-MEN-00133-000-t2f.nii.gz",
+                "BraTS-MEN-00133-000/BraTS-MEN-00133-000-t1c.nii.gz",
+                "BraTS-MEN-00133-000/BraTS-MEN-00133-000-t1n.nii.gz",
+                "BraTS-MEN-00133-000/BraTS-MEN-00133-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00133-000/BraTS-MEN-00133-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00147-000/BraTS-MEN-00147-000-t2f.nii.gz",
+                "BraTS-MEN-00147-000/BraTS-MEN-00147-000-t1c.nii.gz",
+                "BraTS-MEN-00147-000/BraTS-MEN-00147-000-t1n.nii.gz",
+                "BraTS-MEN-00147-000/BraTS-MEN-00147-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00147-000/BraTS-MEN-00147-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00150-000/BraTS-MEN-00150-000-t2f.nii.gz",
+                "BraTS-MEN-00150-000/BraTS-MEN-00150-000-t1c.nii.gz",
+                "BraTS-MEN-00150-000/BraTS-MEN-00150-000-t1n.nii.gz",
+                "BraTS-MEN-00150-000/BraTS-MEN-00150-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00150-000/BraTS-MEN-00150-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00163-000/BraTS-MEN-00163-000-t2f.nii.gz",
+                "BraTS-MEN-00163-000/BraTS-MEN-00163-000-t1c.nii.gz",
+                "BraTS-MEN-00163-000/BraTS-MEN-00163-000-t1n.nii.gz",
+                "BraTS-MEN-00163-000/BraTS-MEN-00163-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00163-000/BraTS-MEN-00163-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00167-000/BraTS-MEN-00167-000-t2f.nii.gz",
+                "BraTS-MEN-00167-000/BraTS-MEN-00167-000-t1c.nii.gz",
+                "BraTS-MEN-00167-000/BraTS-MEN-00167-000-t1n.nii.gz",
+                "BraTS-MEN-00167-000/BraTS-MEN-00167-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00167-000/BraTS-MEN-00167-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00176-000/BraTS-MEN-00176-000-t2f.nii.gz",
+                "BraTS-MEN-00176-000/BraTS-MEN-00176-000-t1c.nii.gz",
+                "BraTS-MEN-00176-000/BraTS-MEN-00176-000-t1n.nii.gz",
+                "BraTS-MEN-00176-000/BraTS-MEN-00176-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00176-000/BraTS-MEN-00176-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00177-000/BraTS-MEN-00177-000-t2f.nii.gz",
+                "BraTS-MEN-00177-000/BraTS-MEN-00177-000-t1c.nii.gz",
+                "BraTS-MEN-00177-000/BraTS-MEN-00177-000-t1n.nii.gz",
+                "BraTS-MEN-00177-000/BraTS-MEN-00177-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00177-000/BraTS-MEN-00177-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00178-000/BraTS-MEN-00178-000-t2f.nii.gz",
+                "BraTS-MEN-00178-000/BraTS-MEN-00178-000-t1c.nii.gz",
+                "BraTS-MEN-00178-000/BraTS-MEN-00178-000-t1n.nii.gz",
+                "BraTS-MEN-00178-000/BraTS-MEN-00178-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00178-000/BraTS-MEN-00178-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00194-000/BraTS-MEN-00194-000-t2f.nii.gz",
+                "BraTS-MEN-00194-000/BraTS-MEN-00194-000-t1c.nii.gz",
+                "BraTS-MEN-00194-000/BraTS-MEN-00194-000-t1n.nii.gz",
+                "BraTS-MEN-00194-000/BraTS-MEN-00194-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00194-000/BraTS-MEN-00194-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00202-000/BraTS-MEN-00202-000-t2f.nii.gz",
+                "BraTS-MEN-00202-000/BraTS-MEN-00202-000-t1c.nii.gz",
+                "BraTS-MEN-00202-000/BraTS-MEN-00202-000-t1n.nii.gz",
+                "BraTS-MEN-00202-000/BraTS-MEN-00202-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00202-000/BraTS-MEN-00202-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00213-000/BraTS-MEN-00213-000-t2f.nii.gz",
+                "BraTS-MEN-00213-000/BraTS-MEN-00213-000-t1c.nii.gz",
+                "BraTS-MEN-00213-000/BraTS-MEN-00213-000-t1n.nii.gz",
+                "BraTS-MEN-00213-000/BraTS-MEN-00213-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00213-000/BraTS-MEN-00213-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00215-000/BraTS-MEN-00215-000-t2f.nii.gz",
+                "BraTS-MEN-00215-000/BraTS-MEN-00215-000-t1c.nii.gz",
+                "BraTS-MEN-00215-000/BraTS-MEN-00215-000-t1n.nii.gz",
+                "BraTS-MEN-00215-000/BraTS-MEN-00215-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00215-000/BraTS-MEN-00215-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00227-000/BraTS-MEN-00227-000-t2f.nii.gz",
+                "BraTS-MEN-00227-000/BraTS-MEN-00227-000-t1c.nii.gz",
+                "BraTS-MEN-00227-000/BraTS-MEN-00227-000-t1n.nii.gz",
+                "BraTS-MEN-00227-000/BraTS-MEN-00227-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00227-000/BraTS-MEN-00227-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00229-000/BraTS-MEN-00229-000-t2f.nii.gz",
+                "BraTS-MEN-00229-000/BraTS-MEN-00229-000-t1c.nii.gz",
+                "BraTS-MEN-00229-000/BraTS-MEN-00229-000-t1n.nii.gz",
+                "BraTS-MEN-00229-000/BraTS-MEN-00229-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00229-000/BraTS-MEN-00229-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00233-000/BraTS-MEN-00233-000-t2f.nii.gz",
+                "BraTS-MEN-00233-000/BraTS-MEN-00233-000-t1c.nii.gz",
+                "BraTS-MEN-00233-000/BraTS-MEN-00233-000-t1n.nii.gz",
+                "BraTS-MEN-00233-000/BraTS-MEN-00233-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00233-000/BraTS-MEN-00233-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00245-000/BraTS-MEN-00245-000-t2f.nii.gz",
+                "BraTS-MEN-00245-000/BraTS-MEN-00245-000-t1c.nii.gz",
+                "BraTS-MEN-00245-000/BraTS-MEN-00245-000-t1n.nii.gz",
+                "BraTS-MEN-00245-000/BraTS-MEN-00245-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00245-000/BraTS-MEN-00245-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00246-000/BraTS-MEN-00246-000-t2f.nii.gz",
+                "BraTS-MEN-00246-000/BraTS-MEN-00246-000-t1c.nii.gz",
+                "BraTS-MEN-00246-000/BraTS-MEN-00246-000-t1n.nii.gz",
+                "BraTS-MEN-00246-000/BraTS-MEN-00246-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00246-000/BraTS-MEN-00246-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00263-000/BraTS-MEN-00263-000-t2f.nii.gz",
+                "BraTS-MEN-00263-000/BraTS-MEN-00263-000-t1c.nii.gz",
+                "BraTS-MEN-00263-000/BraTS-MEN-00263-000-t1n.nii.gz",
+                "BraTS-MEN-00263-000/BraTS-MEN-00263-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00263-000/BraTS-MEN-00263-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00278-000/BraTS-MEN-00278-000-t2f.nii.gz",
+                "BraTS-MEN-00278-000/BraTS-MEN-00278-000-t1c.nii.gz",
+                "BraTS-MEN-00278-000/BraTS-MEN-00278-000-t1n.nii.gz",
+                "BraTS-MEN-00278-000/BraTS-MEN-00278-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00278-000/BraTS-MEN-00278-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00288-000/BraTS-MEN-00288-000-t2f.nii.gz",
+                "BraTS-MEN-00288-000/BraTS-MEN-00288-000-t1c.nii.gz",
+                "BraTS-MEN-00288-000/BraTS-MEN-00288-000-t1n.nii.gz",
+                "BraTS-MEN-00288-000/BraTS-MEN-00288-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00288-000/BraTS-MEN-00288-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00298-000/BraTS-MEN-00298-000-t2f.nii.gz",
+                "BraTS-MEN-00298-000/BraTS-MEN-00298-000-t1c.nii.gz",
+                "BraTS-MEN-00298-000/BraTS-MEN-00298-000-t1n.nii.gz",
+                "BraTS-MEN-00298-000/BraTS-MEN-00298-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00298-000/BraTS-MEN-00298-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00304-000/BraTS-MEN-00304-000-t2f.nii.gz",
+                "BraTS-MEN-00304-000/BraTS-MEN-00304-000-t1c.nii.gz",
+                "BraTS-MEN-00304-000/BraTS-MEN-00304-000-t1n.nii.gz",
+                "BraTS-MEN-00304-000/BraTS-MEN-00304-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00304-000/BraTS-MEN-00304-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00306-000/BraTS-MEN-00306-000-t2f.nii.gz",
+                "BraTS-MEN-00306-000/BraTS-MEN-00306-000-t1c.nii.gz",
+                "BraTS-MEN-00306-000/BraTS-MEN-00306-000-t1n.nii.gz",
+                "BraTS-MEN-00306-000/BraTS-MEN-00306-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00306-000/BraTS-MEN-00306-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00315-000/BraTS-MEN-00315-000-t2f.nii.gz",
+                "BraTS-MEN-00315-000/BraTS-MEN-00315-000-t1c.nii.gz",
+                "BraTS-MEN-00315-000/BraTS-MEN-00315-000-t1n.nii.gz",
+                "BraTS-MEN-00315-000/BraTS-MEN-00315-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00315-000/BraTS-MEN-00315-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00321-000/BraTS-MEN-00321-000-t2f.nii.gz",
+                "BraTS-MEN-00321-000/BraTS-MEN-00321-000-t1c.nii.gz",
+                "BraTS-MEN-00321-000/BraTS-MEN-00321-000-t1n.nii.gz",
+                "BraTS-MEN-00321-000/BraTS-MEN-00321-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00321-000/BraTS-MEN-00321-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00334-000/BraTS-MEN-00334-000-t2f.nii.gz",
+                "BraTS-MEN-00334-000/BraTS-MEN-00334-000-t1c.nii.gz",
+                "BraTS-MEN-00334-000/BraTS-MEN-00334-000-t1n.nii.gz",
+                "BraTS-MEN-00334-000/BraTS-MEN-00334-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00334-000/BraTS-MEN-00334-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00341-000/BraTS-MEN-00341-000-t2f.nii.gz",
+                "BraTS-MEN-00341-000/BraTS-MEN-00341-000-t1c.nii.gz",
+                "BraTS-MEN-00341-000/BraTS-MEN-00341-000-t1n.nii.gz",
+                "BraTS-MEN-00341-000/BraTS-MEN-00341-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00341-000/BraTS-MEN-00341-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00352-000/BraTS-MEN-00352-000-t2f.nii.gz",
+                "BraTS-MEN-00352-000/BraTS-MEN-00352-000-t1c.nii.gz",
+                "BraTS-MEN-00352-000/BraTS-MEN-00352-000-t1n.nii.gz",
+                "BraTS-MEN-00352-000/BraTS-MEN-00352-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00352-000/BraTS-MEN-00352-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00353-000/BraTS-MEN-00353-000-t2f.nii.gz",
+                "BraTS-MEN-00353-000/BraTS-MEN-00353-000-t1c.nii.gz",
+                "BraTS-MEN-00353-000/BraTS-MEN-00353-000-t1n.nii.gz",
+                "BraTS-MEN-00353-000/BraTS-MEN-00353-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00353-000/BraTS-MEN-00353-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00366-000/BraTS-MEN-00366-000-t2f.nii.gz",
+                "BraTS-MEN-00366-000/BraTS-MEN-00366-000-t1c.nii.gz",
+                "BraTS-MEN-00366-000/BraTS-MEN-00366-000-t1n.nii.gz",
+                "BraTS-MEN-00366-000/BraTS-MEN-00366-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00366-000/BraTS-MEN-00366-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00367-000/BraTS-MEN-00367-000-t2f.nii.gz",
+                "BraTS-MEN-00367-000/BraTS-MEN-00367-000-t1c.nii.gz",
+                "BraTS-MEN-00367-000/BraTS-MEN-00367-000-t1n.nii.gz",
+                "BraTS-MEN-00367-000/BraTS-MEN-00367-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00367-000/BraTS-MEN-00367-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00369-000/BraTS-MEN-00369-000-t2f.nii.gz",
+                "BraTS-MEN-00369-000/BraTS-MEN-00369-000-t1c.nii.gz",
+                "BraTS-MEN-00369-000/BraTS-MEN-00369-000-t1n.nii.gz",
+                "BraTS-MEN-00369-000/BraTS-MEN-00369-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00369-000/BraTS-MEN-00369-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00381-000/BraTS-MEN-00381-000-t2f.nii.gz",
+                "BraTS-MEN-00381-000/BraTS-MEN-00381-000-t1c.nii.gz",
+                "BraTS-MEN-00381-000/BraTS-MEN-00381-000-t1n.nii.gz",
+                "BraTS-MEN-00381-000/BraTS-MEN-00381-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00381-000/BraTS-MEN-00381-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00389-000/BraTS-MEN-00389-000-t2f.nii.gz",
+                "BraTS-MEN-00389-000/BraTS-MEN-00389-000-t1c.nii.gz",
+                "BraTS-MEN-00389-000/BraTS-MEN-00389-000-t1n.nii.gz",
+                "BraTS-MEN-00389-000/BraTS-MEN-00389-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00389-000/BraTS-MEN-00389-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00401-000/BraTS-MEN-00401-000-t2f.nii.gz",
+                "BraTS-MEN-00401-000/BraTS-MEN-00401-000-t1c.nii.gz",
+                "BraTS-MEN-00401-000/BraTS-MEN-00401-000-t1n.nii.gz",
+                "BraTS-MEN-00401-000/BraTS-MEN-00401-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00401-000/BraTS-MEN-00401-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00406-000/BraTS-MEN-00406-000-t2f.nii.gz",
+                "BraTS-MEN-00406-000/BraTS-MEN-00406-000-t1c.nii.gz",
+                "BraTS-MEN-00406-000/BraTS-MEN-00406-000-t1n.nii.gz",
+                "BraTS-MEN-00406-000/BraTS-MEN-00406-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00406-000/BraTS-MEN-00406-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00408-000/BraTS-MEN-00408-000-t2f.nii.gz",
+                "BraTS-MEN-00408-000/BraTS-MEN-00408-000-t1c.nii.gz",
+                "BraTS-MEN-00408-000/BraTS-MEN-00408-000-t1n.nii.gz",
+                "BraTS-MEN-00408-000/BraTS-MEN-00408-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00408-000/BraTS-MEN-00408-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00420-000/BraTS-MEN-00420-000-t2f.nii.gz",
+                "BraTS-MEN-00420-000/BraTS-MEN-00420-000-t1c.nii.gz",
+                "BraTS-MEN-00420-000/BraTS-MEN-00420-000-t1n.nii.gz",
+                "BraTS-MEN-00420-000/BraTS-MEN-00420-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00420-000/BraTS-MEN-00420-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00426-000/BraTS-MEN-00426-000-t2f.nii.gz",
+                "BraTS-MEN-00426-000/BraTS-MEN-00426-000-t1c.nii.gz",
+                "BraTS-MEN-00426-000/BraTS-MEN-00426-000-t1n.nii.gz",
+                "BraTS-MEN-00426-000/BraTS-MEN-00426-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00426-000/BraTS-MEN-00426-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00434-000/BraTS-MEN-00434-000-t2f.nii.gz",
+                "BraTS-MEN-00434-000/BraTS-MEN-00434-000-t1c.nii.gz",
+                "BraTS-MEN-00434-000/BraTS-MEN-00434-000-t1n.nii.gz",
+                "BraTS-MEN-00434-000/BraTS-MEN-00434-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00434-000/BraTS-MEN-00434-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00441-000/BraTS-MEN-00441-000-t2f.nii.gz",
+                "BraTS-MEN-00441-000/BraTS-MEN-00441-000-t1c.nii.gz",
+                "BraTS-MEN-00441-000/BraTS-MEN-00441-000-t1n.nii.gz",
+                "BraTS-MEN-00441-000/BraTS-MEN-00441-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00441-000/BraTS-MEN-00441-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00446-000/BraTS-MEN-00446-000-t2f.nii.gz",
+                "BraTS-MEN-00446-000/BraTS-MEN-00446-000-t1c.nii.gz",
+                "BraTS-MEN-00446-000/BraTS-MEN-00446-000-t1n.nii.gz",
+                "BraTS-MEN-00446-000/BraTS-MEN-00446-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00446-000/BraTS-MEN-00446-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00455-000/BraTS-MEN-00455-000-t2f.nii.gz",
+                "BraTS-MEN-00455-000/BraTS-MEN-00455-000-t1c.nii.gz",
+                "BraTS-MEN-00455-000/BraTS-MEN-00455-000-t1n.nii.gz",
+                "BraTS-MEN-00455-000/BraTS-MEN-00455-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00455-000/BraTS-MEN-00455-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00470-000/BraTS-MEN-00470-000-t2f.nii.gz",
+                "BraTS-MEN-00470-000/BraTS-MEN-00470-000-t1c.nii.gz",
+                "BraTS-MEN-00470-000/BraTS-MEN-00470-000-t1n.nii.gz",
+                "BraTS-MEN-00470-000/BraTS-MEN-00470-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00470-000/BraTS-MEN-00470-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00482-000/BraTS-MEN-00482-000-t2f.nii.gz",
+                "BraTS-MEN-00482-000/BraTS-MEN-00482-000-t1c.nii.gz",
+                "BraTS-MEN-00482-000/BraTS-MEN-00482-000-t1n.nii.gz",
+                "BraTS-MEN-00482-000/BraTS-MEN-00482-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00482-000/BraTS-MEN-00482-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00490-000/BraTS-MEN-00490-000-t2f.nii.gz",
+                "BraTS-MEN-00490-000/BraTS-MEN-00490-000-t1c.nii.gz",
+                "BraTS-MEN-00490-000/BraTS-MEN-00490-000-t1n.nii.gz",
+                "BraTS-MEN-00490-000/BraTS-MEN-00490-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00490-000/BraTS-MEN-00490-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00495-000/BraTS-MEN-00495-000-t2f.nii.gz",
+                "BraTS-MEN-00495-000/BraTS-MEN-00495-000-t1c.nii.gz",
+                "BraTS-MEN-00495-000/BraTS-MEN-00495-000-t1n.nii.gz",
+                "BraTS-MEN-00495-000/BraTS-MEN-00495-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00495-000/BraTS-MEN-00495-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00497-000/BraTS-MEN-00497-000-t2f.nii.gz",
+                "BraTS-MEN-00497-000/BraTS-MEN-00497-000-t1c.nii.gz",
+                "BraTS-MEN-00497-000/BraTS-MEN-00497-000-t1n.nii.gz",
+                "BraTS-MEN-00497-000/BraTS-MEN-00497-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00497-000/BraTS-MEN-00497-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00503-000/BraTS-MEN-00503-000-t2f.nii.gz",
+                "BraTS-MEN-00503-000/BraTS-MEN-00503-000-t1c.nii.gz",
+                "BraTS-MEN-00503-000/BraTS-MEN-00503-000-t1n.nii.gz",
+                "BraTS-MEN-00503-000/BraTS-MEN-00503-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00503-000/BraTS-MEN-00503-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00508-000/BraTS-MEN-00508-000-t2f.nii.gz",
+                "BraTS-MEN-00508-000/BraTS-MEN-00508-000-t1c.nii.gz",
+                "BraTS-MEN-00508-000/BraTS-MEN-00508-000-t1n.nii.gz",
+                "BraTS-MEN-00508-000/BraTS-MEN-00508-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00508-000/BraTS-MEN-00508-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00510-000/BraTS-MEN-00510-000-t2f.nii.gz",
+                "BraTS-MEN-00510-000/BraTS-MEN-00510-000-t1c.nii.gz",
+                "BraTS-MEN-00510-000/BraTS-MEN-00510-000-t1n.nii.gz",
+                "BraTS-MEN-00510-000/BraTS-MEN-00510-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00510-000/BraTS-MEN-00510-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00521-000/BraTS-MEN-00521-000-t2f.nii.gz",
+                "BraTS-MEN-00521-000/BraTS-MEN-00521-000-t1c.nii.gz",
+                "BraTS-MEN-00521-000/BraTS-MEN-00521-000-t1n.nii.gz",
+                "BraTS-MEN-00521-000/BraTS-MEN-00521-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00521-000/BraTS-MEN-00521-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00529-000/BraTS-MEN-00529-000-t2f.nii.gz",
+                "BraTS-MEN-00529-000/BraTS-MEN-00529-000-t1c.nii.gz",
+                "BraTS-MEN-00529-000/BraTS-MEN-00529-000-t1n.nii.gz",
+                "BraTS-MEN-00529-000/BraTS-MEN-00529-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00529-000/BraTS-MEN-00529-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00544-000/BraTS-MEN-00544-000-t2f.nii.gz",
+                "BraTS-MEN-00544-000/BraTS-MEN-00544-000-t1c.nii.gz",
+                "BraTS-MEN-00544-000/BraTS-MEN-00544-000-t1n.nii.gz",
+                "BraTS-MEN-00544-000/BraTS-MEN-00544-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00544-000/BraTS-MEN-00544-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00547-000/BraTS-MEN-00547-000-t2f.nii.gz",
+                "BraTS-MEN-00547-000/BraTS-MEN-00547-000-t1c.nii.gz",
+                "BraTS-MEN-00547-000/BraTS-MEN-00547-000-t1n.nii.gz",
+                "BraTS-MEN-00547-000/BraTS-MEN-00547-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00547-000/BraTS-MEN-00547-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00552-000/BraTS-MEN-00552-000-t2f.nii.gz",
+                "BraTS-MEN-00552-000/BraTS-MEN-00552-000-t1c.nii.gz",
+                "BraTS-MEN-00552-000/BraTS-MEN-00552-000-t1n.nii.gz",
+                "BraTS-MEN-00552-000/BraTS-MEN-00552-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00552-000/BraTS-MEN-00552-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00563-000/BraTS-MEN-00563-000-t2f.nii.gz",
+                "BraTS-MEN-00563-000/BraTS-MEN-00563-000-t1c.nii.gz",
+                "BraTS-MEN-00563-000/BraTS-MEN-00563-000-t1n.nii.gz",
+                "BraTS-MEN-00563-000/BraTS-MEN-00563-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00563-000/BraTS-MEN-00563-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00566-000/BraTS-MEN-00566-000-t2f.nii.gz",
+                "BraTS-MEN-00566-000/BraTS-MEN-00566-000-t1c.nii.gz",
+                "BraTS-MEN-00566-000/BraTS-MEN-00566-000-t1n.nii.gz",
+                "BraTS-MEN-00566-000/BraTS-MEN-00566-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00566-000/BraTS-MEN-00566-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00576-005/BraTS-MEN-00576-005-t2f.nii.gz",
+                "BraTS-MEN-00576-005/BraTS-MEN-00576-005-t1c.nii.gz",
+                "BraTS-MEN-00576-005/BraTS-MEN-00576-005-t1n.nii.gz",
+                "BraTS-MEN-00576-005/BraTS-MEN-00576-005-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00576-005/BraTS-MEN-00576-005-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00583-000/BraTS-MEN-00583-000-t2f.nii.gz",
+                "BraTS-MEN-00583-000/BraTS-MEN-00583-000-t1c.nii.gz",
+                "BraTS-MEN-00583-000/BraTS-MEN-00583-000-t1n.nii.gz",
+                "BraTS-MEN-00583-000/BraTS-MEN-00583-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00583-000/BraTS-MEN-00583-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00584-000/BraTS-MEN-00584-000-t2f.nii.gz",
+                "BraTS-MEN-00584-000/BraTS-MEN-00584-000-t1c.nii.gz",
+                "BraTS-MEN-00584-000/BraTS-MEN-00584-000-t1n.nii.gz",
+                "BraTS-MEN-00584-000/BraTS-MEN-00584-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00584-000/BraTS-MEN-00584-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00588-000/BraTS-MEN-00588-000-t2f.nii.gz",
+                "BraTS-MEN-00588-000/BraTS-MEN-00588-000-t1c.nii.gz",
+                "BraTS-MEN-00588-000/BraTS-MEN-00588-000-t1n.nii.gz",
+                "BraTS-MEN-00588-000/BraTS-MEN-00588-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00588-000/BraTS-MEN-00588-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00604-000/BraTS-MEN-00604-000-t2f.nii.gz",
+                "BraTS-MEN-00604-000/BraTS-MEN-00604-000-t1c.nii.gz",
+                "BraTS-MEN-00604-000/BraTS-MEN-00604-000-t1n.nii.gz",
+                "BraTS-MEN-00604-000/BraTS-MEN-00604-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00604-000/BraTS-MEN-00604-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00611-000/BraTS-MEN-00611-000-t2f.nii.gz",
+                "BraTS-MEN-00611-000/BraTS-MEN-00611-000-t1c.nii.gz",
+                "BraTS-MEN-00611-000/BraTS-MEN-00611-000-t1n.nii.gz",
+                "BraTS-MEN-00611-000/BraTS-MEN-00611-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00611-000/BraTS-MEN-00611-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00612-000/BraTS-MEN-00612-000-t2f.nii.gz",
+                "BraTS-MEN-00612-000/BraTS-MEN-00612-000-t1c.nii.gz",
+                "BraTS-MEN-00612-000/BraTS-MEN-00612-000-t1n.nii.gz",
+                "BraTS-MEN-00612-000/BraTS-MEN-00612-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00612-000/BraTS-MEN-00612-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00616-000/BraTS-MEN-00616-000-t2f.nii.gz",
+                "BraTS-MEN-00616-000/BraTS-MEN-00616-000-t1c.nii.gz",
+                "BraTS-MEN-00616-000/BraTS-MEN-00616-000-t1n.nii.gz",
+                "BraTS-MEN-00616-000/BraTS-MEN-00616-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00616-000/BraTS-MEN-00616-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00619-000/BraTS-MEN-00619-000-t2f.nii.gz",
+                "BraTS-MEN-00619-000/BraTS-MEN-00619-000-t1c.nii.gz",
+                "BraTS-MEN-00619-000/BraTS-MEN-00619-000-t1n.nii.gz",
+                "BraTS-MEN-00619-000/BraTS-MEN-00619-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00619-000/BraTS-MEN-00619-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00628-000/BraTS-MEN-00628-000-t2f.nii.gz",
+                "BraTS-MEN-00628-000/BraTS-MEN-00628-000-t1c.nii.gz",
+                "BraTS-MEN-00628-000/BraTS-MEN-00628-000-t1n.nii.gz",
+                "BraTS-MEN-00628-000/BraTS-MEN-00628-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00628-000/BraTS-MEN-00628-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00638-000/BraTS-MEN-00638-000-t2f.nii.gz",
+                "BraTS-MEN-00638-000/BraTS-MEN-00638-000-t1c.nii.gz",
+                "BraTS-MEN-00638-000/BraTS-MEN-00638-000-t1n.nii.gz",
+                "BraTS-MEN-00638-000/BraTS-MEN-00638-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00638-000/BraTS-MEN-00638-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00639-000/BraTS-MEN-00639-000-t2f.nii.gz",
+                "BraTS-MEN-00639-000/BraTS-MEN-00639-000-t1c.nii.gz",
+                "BraTS-MEN-00639-000/BraTS-MEN-00639-000-t1n.nii.gz",
+                "BraTS-MEN-00639-000/BraTS-MEN-00639-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00639-000/BraTS-MEN-00639-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00644-000/BraTS-MEN-00644-000-t2f.nii.gz",
+                "BraTS-MEN-00644-000/BraTS-MEN-00644-000-t1c.nii.gz",
+                "BraTS-MEN-00644-000/BraTS-MEN-00644-000-t1n.nii.gz",
+                "BraTS-MEN-00644-000/BraTS-MEN-00644-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00644-000/BraTS-MEN-00644-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00659-000/BraTS-MEN-00659-000-t2f.nii.gz",
+                "BraTS-MEN-00659-000/BraTS-MEN-00659-000-t1c.nii.gz",
+                "BraTS-MEN-00659-000/BraTS-MEN-00659-000-t1n.nii.gz",
+                "BraTS-MEN-00659-000/BraTS-MEN-00659-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00659-000/BraTS-MEN-00659-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00662-000/BraTS-MEN-00662-000-t2f.nii.gz",
+                "BraTS-MEN-00662-000/BraTS-MEN-00662-000-t1c.nii.gz",
+                "BraTS-MEN-00662-000/BraTS-MEN-00662-000-t1n.nii.gz",
+                "BraTS-MEN-00662-000/BraTS-MEN-00662-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00662-000/BraTS-MEN-00662-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00667-000/BraTS-MEN-00667-000-t2f.nii.gz",
+                "BraTS-MEN-00667-000/BraTS-MEN-00667-000-t1c.nii.gz",
+                "BraTS-MEN-00667-000/BraTS-MEN-00667-000-t1n.nii.gz",
+                "BraTS-MEN-00667-000/BraTS-MEN-00667-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00667-000/BraTS-MEN-00667-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00677-000/BraTS-MEN-00677-000-t2f.nii.gz",
+                "BraTS-MEN-00677-000/BraTS-MEN-00677-000-t1c.nii.gz",
+                "BraTS-MEN-00677-000/BraTS-MEN-00677-000-t1n.nii.gz",
+                "BraTS-MEN-00677-000/BraTS-MEN-00677-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00677-000/BraTS-MEN-00677-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00681-000/BraTS-MEN-00681-000-t2f.nii.gz",
+                "BraTS-MEN-00681-000/BraTS-MEN-00681-000-t1c.nii.gz",
+                "BraTS-MEN-00681-000/BraTS-MEN-00681-000-t1n.nii.gz",
+                "BraTS-MEN-00681-000/BraTS-MEN-00681-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00681-000/BraTS-MEN-00681-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00690-000/BraTS-MEN-00690-000-t2f.nii.gz",
+                "BraTS-MEN-00690-000/BraTS-MEN-00690-000-t1c.nii.gz",
+                "BraTS-MEN-00690-000/BraTS-MEN-00690-000-t1n.nii.gz",
+                "BraTS-MEN-00690-000/BraTS-MEN-00690-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00690-000/BraTS-MEN-00690-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00691-000/BraTS-MEN-00691-000-t2f.nii.gz",
+                "BraTS-MEN-00691-000/BraTS-MEN-00691-000-t1c.nii.gz",
+                "BraTS-MEN-00691-000/BraTS-MEN-00691-000-t1n.nii.gz",
+                "BraTS-MEN-00691-000/BraTS-MEN-00691-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00691-000/BraTS-MEN-00691-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00706-000/BraTS-MEN-00706-000-t2f.nii.gz",
+                "BraTS-MEN-00706-000/BraTS-MEN-00706-000-t1c.nii.gz",
+                "BraTS-MEN-00706-000/BraTS-MEN-00706-000-t1n.nii.gz",
+                "BraTS-MEN-00706-000/BraTS-MEN-00706-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00706-000/BraTS-MEN-00706-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00708-000/BraTS-MEN-00708-000-t2f.nii.gz",
+                "BraTS-MEN-00708-000/BraTS-MEN-00708-000-t1c.nii.gz",
+                "BraTS-MEN-00708-000/BraTS-MEN-00708-000-t1n.nii.gz",
+                "BraTS-MEN-00708-000/BraTS-MEN-00708-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00708-000/BraTS-MEN-00708-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00717-003/BraTS-MEN-00717-003-t2f.nii.gz",
+                "BraTS-MEN-00717-003/BraTS-MEN-00717-003-t1c.nii.gz",
+                "BraTS-MEN-00717-003/BraTS-MEN-00717-003-t1n.nii.gz",
+                "BraTS-MEN-00717-003/BraTS-MEN-00717-003-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00717-003/BraTS-MEN-00717-003-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00717-009/BraTS-MEN-00717-009-t2f.nii.gz",
+                "BraTS-MEN-00717-009/BraTS-MEN-00717-009-t1c.nii.gz",
+                "BraTS-MEN-00717-009/BraTS-MEN-00717-009-t1n.nii.gz",
+                "BraTS-MEN-00717-009/BraTS-MEN-00717-009-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00717-009/BraTS-MEN-00717-009-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00722-000/BraTS-MEN-00722-000-t2f.nii.gz",
+                "BraTS-MEN-00722-000/BraTS-MEN-00722-000-t1c.nii.gz",
+                "BraTS-MEN-00722-000/BraTS-MEN-00722-000-t1n.nii.gz",
+                "BraTS-MEN-00722-000/BraTS-MEN-00722-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00722-000/BraTS-MEN-00722-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00731-000/BraTS-MEN-00731-000-t2f.nii.gz",
+                "BraTS-MEN-00731-000/BraTS-MEN-00731-000-t1c.nii.gz",
+                "BraTS-MEN-00731-000/BraTS-MEN-00731-000-t1n.nii.gz",
+                "BraTS-MEN-00731-000/BraTS-MEN-00731-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00731-000/BraTS-MEN-00731-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00735-000/BraTS-MEN-00735-000-t2f.nii.gz",
+                "BraTS-MEN-00735-000/BraTS-MEN-00735-000-t1c.nii.gz",
+                "BraTS-MEN-00735-000/BraTS-MEN-00735-000-t1n.nii.gz",
+                "BraTS-MEN-00735-000/BraTS-MEN-00735-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00735-000/BraTS-MEN-00735-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00741-000/BraTS-MEN-00741-000-t2f.nii.gz",
+                "BraTS-MEN-00741-000/BraTS-MEN-00741-000-t1c.nii.gz",
+                "BraTS-MEN-00741-000/BraTS-MEN-00741-000-t1n.nii.gz",
+                "BraTS-MEN-00741-000/BraTS-MEN-00741-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00741-000/BraTS-MEN-00741-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00750-000/BraTS-MEN-00750-000-t2f.nii.gz",
+                "BraTS-MEN-00750-000/BraTS-MEN-00750-000-t1c.nii.gz",
+                "BraTS-MEN-00750-000/BraTS-MEN-00750-000-t1n.nii.gz",
+                "BraTS-MEN-00750-000/BraTS-MEN-00750-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00750-000/BraTS-MEN-00750-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00758-000/BraTS-MEN-00758-000-t2f.nii.gz",
+                "BraTS-MEN-00758-000/BraTS-MEN-00758-000-t1c.nii.gz",
+                "BraTS-MEN-00758-000/BraTS-MEN-00758-000-t1n.nii.gz",
+                "BraTS-MEN-00758-000/BraTS-MEN-00758-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00758-000/BraTS-MEN-00758-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00762-000/BraTS-MEN-00762-000-t2f.nii.gz",
+                "BraTS-MEN-00762-000/BraTS-MEN-00762-000-t1c.nii.gz",
+                "BraTS-MEN-00762-000/BraTS-MEN-00762-000-t1n.nii.gz",
+                "BraTS-MEN-00762-000/BraTS-MEN-00762-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00762-000/BraTS-MEN-00762-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00771-000/BraTS-MEN-00771-000-t2f.nii.gz",
+                "BraTS-MEN-00771-000/BraTS-MEN-00771-000-t1c.nii.gz",
+                "BraTS-MEN-00771-000/BraTS-MEN-00771-000-t1n.nii.gz",
+                "BraTS-MEN-00771-000/BraTS-MEN-00771-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00771-000/BraTS-MEN-00771-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00781-005/BraTS-MEN-00781-005-t2f.nii.gz",
+                "BraTS-MEN-00781-005/BraTS-MEN-00781-005-t1c.nii.gz",
+                "BraTS-MEN-00781-005/BraTS-MEN-00781-005-t1n.nii.gz",
+                "BraTS-MEN-00781-005/BraTS-MEN-00781-005-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00781-005/BraTS-MEN-00781-005-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00781-008/BraTS-MEN-00781-008-t2f.nii.gz",
+                "BraTS-MEN-00781-008/BraTS-MEN-00781-008-t1c.nii.gz",
+                "BraTS-MEN-00781-008/BraTS-MEN-00781-008-t1n.nii.gz",
+                "BraTS-MEN-00781-008/BraTS-MEN-00781-008-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00781-008/BraTS-MEN-00781-008-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00789-000/BraTS-MEN-00789-000-t2f.nii.gz",
+                "BraTS-MEN-00789-000/BraTS-MEN-00789-000-t1c.nii.gz",
+                "BraTS-MEN-00789-000/BraTS-MEN-00789-000-t1n.nii.gz",
+                "BraTS-MEN-00789-000/BraTS-MEN-00789-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00789-000/BraTS-MEN-00789-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00797-000/BraTS-MEN-00797-000-t2f.nii.gz",
+                "BraTS-MEN-00797-000/BraTS-MEN-00797-000-t1c.nii.gz",
+                "BraTS-MEN-00797-000/BraTS-MEN-00797-000-t1n.nii.gz",
+                "BraTS-MEN-00797-000/BraTS-MEN-00797-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00797-000/BraTS-MEN-00797-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00808-000/BraTS-MEN-00808-000-t2f.nii.gz",
+                "BraTS-MEN-00808-000/BraTS-MEN-00808-000-t1c.nii.gz",
+                "BraTS-MEN-00808-000/BraTS-MEN-00808-000-t1n.nii.gz",
+                "BraTS-MEN-00808-000/BraTS-MEN-00808-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00808-000/BraTS-MEN-00808-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00811-000/BraTS-MEN-00811-000-t2f.nii.gz",
+                "BraTS-MEN-00811-000/BraTS-MEN-00811-000-t1c.nii.gz",
+                "BraTS-MEN-00811-000/BraTS-MEN-00811-000-t1n.nii.gz",
+                "BraTS-MEN-00811-000/BraTS-MEN-00811-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00811-000/BraTS-MEN-00811-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00817-000/BraTS-MEN-00817-000-t2f.nii.gz",
+                "BraTS-MEN-00817-000/BraTS-MEN-00817-000-t1c.nii.gz",
+                "BraTS-MEN-00817-000/BraTS-MEN-00817-000-t1n.nii.gz",
+                "BraTS-MEN-00817-000/BraTS-MEN-00817-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00817-000/BraTS-MEN-00817-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00832-000/BraTS-MEN-00832-000-t2f.nii.gz",
+                "BraTS-MEN-00832-000/BraTS-MEN-00832-000-t1c.nii.gz",
+                "BraTS-MEN-00832-000/BraTS-MEN-00832-000-t1n.nii.gz",
+                "BraTS-MEN-00832-000/BraTS-MEN-00832-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00832-000/BraTS-MEN-00832-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00835-000/BraTS-MEN-00835-000-t2f.nii.gz",
+                "BraTS-MEN-00835-000/BraTS-MEN-00835-000-t1c.nii.gz",
+                "BraTS-MEN-00835-000/BraTS-MEN-00835-000-t1n.nii.gz",
+                "BraTS-MEN-00835-000/BraTS-MEN-00835-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00835-000/BraTS-MEN-00835-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00840-000/BraTS-MEN-00840-000-t2f.nii.gz",
+                "BraTS-MEN-00840-000/BraTS-MEN-00840-000-t1c.nii.gz",
+                "BraTS-MEN-00840-000/BraTS-MEN-00840-000-t1n.nii.gz",
+                "BraTS-MEN-00840-000/BraTS-MEN-00840-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00840-000/BraTS-MEN-00840-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00854-000/BraTS-MEN-00854-000-t2f.nii.gz",
+                "BraTS-MEN-00854-000/BraTS-MEN-00854-000-t1c.nii.gz",
+                "BraTS-MEN-00854-000/BraTS-MEN-00854-000-t1n.nii.gz",
+                "BraTS-MEN-00854-000/BraTS-MEN-00854-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00854-000/BraTS-MEN-00854-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00861-000/BraTS-MEN-00861-000-t2f.nii.gz",
+                "BraTS-MEN-00861-000/BraTS-MEN-00861-000-t1c.nii.gz",
+                "BraTS-MEN-00861-000/BraTS-MEN-00861-000-t1n.nii.gz",
+                "BraTS-MEN-00861-000/BraTS-MEN-00861-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00861-000/BraTS-MEN-00861-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00879-000/BraTS-MEN-00879-000-t2f.nii.gz",
+                "BraTS-MEN-00879-000/BraTS-MEN-00879-000-t1c.nii.gz",
+                "BraTS-MEN-00879-000/BraTS-MEN-00879-000-t1n.nii.gz",
+                "BraTS-MEN-00879-000/BraTS-MEN-00879-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00879-000/BraTS-MEN-00879-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00887-000/BraTS-MEN-00887-000-t2f.nii.gz",
+                "BraTS-MEN-00887-000/BraTS-MEN-00887-000-t1c.nii.gz",
+                "BraTS-MEN-00887-000/BraTS-MEN-00887-000-t1n.nii.gz",
+                "BraTS-MEN-00887-000/BraTS-MEN-00887-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00887-000/BraTS-MEN-00887-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00890-000/BraTS-MEN-00890-000-t2f.nii.gz",
+                "BraTS-MEN-00890-000/BraTS-MEN-00890-000-t1c.nii.gz",
+                "BraTS-MEN-00890-000/BraTS-MEN-00890-000-t1n.nii.gz",
+                "BraTS-MEN-00890-000/BraTS-MEN-00890-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00890-000/BraTS-MEN-00890-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00899-000/BraTS-MEN-00899-000-t2f.nii.gz",
+                "BraTS-MEN-00899-000/BraTS-MEN-00899-000-t1c.nii.gz",
+                "BraTS-MEN-00899-000/BraTS-MEN-00899-000-t1n.nii.gz",
+                "BraTS-MEN-00899-000/BraTS-MEN-00899-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00899-000/BraTS-MEN-00899-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00904-000/BraTS-MEN-00904-000-t2f.nii.gz",
+                "BraTS-MEN-00904-000/BraTS-MEN-00904-000-t1c.nii.gz",
+                "BraTS-MEN-00904-000/BraTS-MEN-00904-000-t1n.nii.gz",
+                "BraTS-MEN-00904-000/BraTS-MEN-00904-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00904-000/BraTS-MEN-00904-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00916-000/BraTS-MEN-00916-000-t2f.nii.gz",
+                "BraTS-MEN-00916-000/BraTS-MEN-00916-000-t1c.nii.gz",
+                "BraTS-MEN-00916-000/BraTS-MEN-00916-000-t1n.nii.gz",
+                "BraTS-MEN-00916-000/BraTS-MEN-00916-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00916-000/BraTS-MEN-00916-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00920-000/BraTS-MEN-00920-000-t2f.nii.gz",
+                "BraTS-MEN-00920-000/BraTS-MEN-00920-000-t1c.nii.gz",
+                "BraTS-MEN-00920-000/BraTS-MEN-00920-000-t1n.nii.gz",
+                "BraTS-MEN-00920-000/BraTS-MEN-00920-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00920-000/BraTS-MEN-00920-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00924-000/BraTS-MEN-00924-000-t2f.nii.gz",
+                "BraTS-MEN-00924-000/BraTS-MEN-00924-000-t1c.nii.gz",
+                "BraTS-MEN-00924-000/BraTS-MEN-00924-000-t1n.nii.gz",
+                "BraTS-MEN-00924-000/BraTS-MEN-00924-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00924-000/BraTS-MEN-00924-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00932-004/BraTS-MEN-00932-004-t2f.nii.gz",
+                "BraTS-MEN-00932-004/BraTS-MEN-00932-004-t1c.nii.gz",
+                "BraTS-MEN-00932-004/BraTS-MEN-00932-004-t1n.nii.gz",
+                "BraTS-MEN-00932-004/BraTS-MEN-00932-004-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00932-004/BraTS-MEN-00932-004-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00932-009/BraTS-MEN-00932-009-t2f.nii.gz",
+                "BraTS-MEN-00932-009/BraTS-MEN-00932-009-t1c.nii.gz",
+                "BraTS-MEN-00932-009/BraTS-MEN-00932-009-t1n.nii.gz",
+                "BraTS-MEN-00932-009/BraTS-MEN-00932-009-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00932-009/BraTS-MEN-00932-009-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00942-000/BraTS-MEN-00942-000-t2f.nii.gz",
+                "BraTS-MEN-00942-000/BraTS-MEN-00942-000-t1c.nii.gz",
+                "BraTS-MEN-00942-000/BraTS-MEN-00942-000-t1n.nii.gz",
+                "BraTS-MEN-00942-000/BraTS-MEN-00942-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00942-000/BraTS-MEN-00942-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00954-000/BraTS-MEN-00954-000-t2f.nii.gz",
+                "BraTS-MEN-00954-000/BraTS-MEN-00954-000-t1c.nii.gz",
+                "BraTS-MEN-00954-000/BraTS-MEN-00954-000-t1n.nii.gz",
+                "BraTS-MEN-00954-000/BraTS-MEN-00954-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00954-000/BraTS-MEN-00954-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00960-000/BraTS-MEN-00960-000-t2f.nii.gz",
+                "BraTS-MEN-00960-000/BraTS-MEN-00960-000-t1c.nii.gz",
+                "BraTS-MEN-00960-000/BraTS-MEN-00960-000-t1n.nii.gz",
+                "BraTS-MEN-00960-000/BraTS-MEN-00960-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00960-000/BraTS-MEN-00960-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00970-000/BraTS-MEN-00970-000-t2f.nii.gz",
+                "BraTS-MEN-00970-000/BraTS-MEN-00970-000-t1c.nii.gz",
+                "BraTS-MEN-00970-000/BraTS-MEN-00970-000-t1n.nii.gz",
+                "BraTS-MEN-00970-000/BraTS-MEN-00970-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00970-000/BraTS-MEN-00970-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00971-000/BraTS-MEN-00971-000-t2f.nii.gz",
+                "BraTS-MEN-00971-000/BraTS-MEN-00971-000-t1c.nii.gz",
+                "BraTS-MEN-00971-000/BraTS-MEN-00971-000-t1n.nii.gz",
+                "BraTS-MEN-00971-000/BraTS-MEN-00971-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00971-000/BraTS-MEN-00971-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00974-000/BraTS-MEN-00974-000-t2f.nii.gz",
+                "BraTS-MEN-00974-000/BraTS-MEN-00974-000-t1c.nii.gz",
+                "BraTS-MEN-00974-000/BraTS-MEN-00974-000-t1n.nii.gz",
+                "BraTS-MEN-00974-000/BraTS-MEN-00974-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00974-000/BraTS-MEN-00974-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00983-009/BraTS-MEN-00983-009-t2f.nii.gz",
+                "BraTS-MEN-00983-009/BraTS-MEN-00983-009-t1c.nii.gz",
+                "BraTS-MEN-00983-009/BraTS-MEN-00983-009-t1n.nii.gz",
+                "BraTS-MEN-00983-009/BraTS-MEN-00983-009-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00983-009/BraTS-MEN-00983-009-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00983-010/BraTS-MEN-00983-010-t2f.nii.gz",
+                "BraTS-MEN-00983-010/BraTS-MEN-00983-010-t1c.nii.gz",
+                "BraTS-MEN-00983-010/BraTS-MEN-00983-010-t1n.nii.gz",
+                "BraTS-MEN-00983-010/BraTS-MEN-00983-010-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00983-010/BraTS-MEN-00983-010-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-00991-000/BraTS-MEN-00991-000-t2f.nii.gz",
+                "BraTS-MEN-00991-000/BraTS-MEN-00991-000-t1c.nii.gz",
+                "BraTS-MEN-00991-000/BraTS-MEN-00991-000-t1n.nii.gz",
+                "BraTS-MEN-00991-000/BraTS-MEN-00991-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-00991-000/BraTS-MEN-00991-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01003-008/BraTS-MEN-01003-008-t2f.nii.gz",
+                "BraTS-MEN-01003-008/BraTS-MEN-01003-008-t1c.nii.gz",
+                "BraTS-MEN-01003-008/BraTS-MEN-01003-008-t1n.nii.gz",
+                "BraTS-MEN-01003-008/BraTS-MEN-01003-008-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01003-008/BraTS-MEN-01003-008-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01003-010/BraTS-MEN-01003-010-t2f.nii.gz",
+                "BraTS-MEN-01003-010/BraTS-MEN-01003-010-t1c.nii.gz",
+                "BraTS-MEN-01003-010/BraTS-MEN-01003-010-t1n.nii.gz",
+                "BraTS-MEN-01003-010/BraTS-MEN-01003-010-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01003-010/BraTS-MEN-01003-010-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01008-012/BraTS-MEN-01008-012-t2f.nii.gz",
+                "BraTS-MEN-01008-012/BraTS-MEN-01008-012-t1c.nii.gz",
+                "BraTS-MEN-01008-012/BraTS-MEN-01008-012-t1n.nii.gz",
+                "BraTS-MEN-01008-012/BraTS-MEN-01008-012-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01008-012/BraTS-MEN-01008-012-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01009-000/BraTS-MEN-01009-000-t2f.nii.gz",
+                "BraTS-MEN-01009-000/BraTS-MEN-01009-000-t1c.nii.gz",
+                "BraTS-MEN-01009-000/BraTS-MEN-01009-000-t1n.nii.gz",
+                "BraTS-MEN-01009-000/BraTS-MEN-01009-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01009-000/BraTS-MEN-01009-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01020-000/BraTS-MEN-01020-000-t2f.nii.gz",
+                "BraTS-MEN-01020-000/BraTS-MEN-01020-000-t1c.nii.gz",
+                "BraTS-MEN-01020-000/BraTS-MEN-01020-000-t1n.nii.gz",
+                "BraTS-MEN-01020-000/BraTS-MEN-01020-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01020-000/BraTS-MEN-01020-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01026-000/BraTS-MEN-01026-000-t2f.nii.gz",
+                "BraTS-MEN-01026-000/BraTS-MEN-01026-000-t1c.nii.gz",
+                "BraTS-MEN-01026-000/BraTS-MEN-01026-000-t1n.nii.gz",
+                "BraTS-MEN-01026-000/BraTS-MEN-01026-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01026-000/BraTS-MEN-01026-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01035-000/BraTS-MEN-01035-000-t2f.nii.gz",
+                "BraTS-MEN-01035-000/BraTS-MEN-01035-000-t1c.nii.gz",
+                "BraTS-MEN-01035-000/BraTS-MEN-01035-000-t1n.nii.gz",
+                "BraTS-MEN-01035-000/BraTS-MEN-01035-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01035-000/BraTS-MEN-01035-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01039-000/BraTS-MEN-01039-000-t2f.nii.gz",
+                "BraTS-MEN-01039-000/BraTS-MEN-01039-000-t1c.nii.gz",
+                "BraTS-MEN-01039-000/BraTS-MEN-01039-000-t1n.nii.gz",
+                "BraTS-MEN-01039-000/BraTS-MEN-01039-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01039-000/BraTS-MEN-01039-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01046-000/BraTS-MEN-01046-000-t2f.nii.gz",
+                "BraTS-MEN-01046-000/BraTS-MEN-01046-000-t1c.nii.gz",
+                "BraTS-MEN-01046-000/BraTS-MEN-01046-000-t1n.nii.gz",
+                "BraTS-MEN-01046-000/BraTS-MEN-01046-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01046-000/BraTS-MEN-01046-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01059-000/BraTS-MEN-01059-000-t2f.nii.gz",
+                "BraTS-MEN-01059-000/BraTS-MEN-01059-000-t1c.nii.gz",
+                "BraTS-MEN-01059-000/BraTS-MEN-01059-000-t1n.nii.gz",
+                "BraTS-MEN-01059-000/BraTS-MEN-01059-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01059-000/BraTS-MEN-01059-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01061-000/BraTS-MEN-01061-000-t2f.nii.gz",
+                "BraTS-MEN-01061-000/BraTS-MEN-01061-000-t1c.nii.gz",
+                "BraTS-MEN-01061-000/BraTS-MEN-01061-000-t1n.nii.gz",
+                "BraTS-MEN-01061-000/BraTS-MEN-01061-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01061-000/BraTS-MEN-01061-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01073-000/BraTS-MEN-01073-000-t2f.nii.gz",
+                "BraTS-MEN-01073-000/BraTS-MEN-01073-000-t1c.nii.gz",
+                "BraTS-MEN-01073-000/BraTS-MEN-01073-000-t1n.nii.gz",
+                "BraTS-MEN-01073-000/BraTS-MEN-01073-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01073-000/BraTS-MEN-01073-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01074-000/BraTS-MEN-01074-000-t2f.nii.gz",
+                "BraTS-MEN-01074-000/BraTS-MEN-01074-000-t1c.nii.gz",
+                "BraTS-MEN-01074-000/BraTS-MEN-01074-000-t1n.nii.gz",
+                "BraTS-MEN-01074-000/BraTS-MEN-01074-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01074-000/BraTS-MEN-01074-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01075-000/BraTS-MEN-01075-000-t2f.nii.gz",
+                "BraTS-MEN-01075-000/BraTS-MEN-01075-000-t1c.nii.gz",
+                "BraTS-MEN-01075-000/BraTS-MEN-01075-000-t1n.nii.gz",
+                "BraTS-MEN-01075-000/BraTS-MEN-01075-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01075-000/BraTS-MEN-01075-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01092-000/BraTS-MEN-01092-000-t2f.nii.gz",
+                "BraTS-MEN-01092-000/BraTS-MEN-01092-000-t1c.nii.gz",
+                "BraTS-MEN-01092-000/BraTS-MEN-01092-000-t1n.nii.gz",
+                "BraTS-MEN-01092-000/BraTS-MEN-01092-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01092-000/BraTS-MEN-01092-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01099-000/BraTS-MEN-01099-000-t2f.nii.gz",
+                "BraTS-MEN-01099-000/BraTS-MEN-01099-000-t1c.nii.gz",
+                "BraTS-MEN-01099-000/BraTS-MEN-01099-000-t1n.nii.gz",
+                "BraTS-MEN-01099-000/BraTS-MEN-01099-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01099-000/BraTS-MEN-01099-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01101-000/BraTS-MEN-01101-000-t2f.nii.gz",
+                "BraTS-MEN-01101-000/BraTS-MEN-01101-000-t1c.nii.gz",
+                "BraTS-MEN-01101-000/BraTS-MEN-01101-000-t1n.nii.gz",
+                "BraTS-MEN-01101-000/BraTS-MEN-01101-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01101-000/BraTS-MEN-01101-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01113-000/BraTS-MEN-01113-000-t2f.nii.gz",
+                "BraTS-MEN-01113-000/BraTS-MEN-01113-000-t1c.nii.gz",
+                "BraTS-MEN-01113-000/BraTS-MEN-01113-000-t1n.nii.gz",
+                "BraTS-MEN-01113-000/BraTS-MEN-01113-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01113-000/BraTS-MEN-01113-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01114-000/BraTS-MEN-01114-000-t2f.nii.gz",
+                "BraTS-MEN-01114-000/BraTS-MEN-01114-000-t1c.nii.gz",
+                "BraTS-MEN-01114-000/BraTS-MEN-01114-000-t1n.nii.gz",
+                "BraTS-MEN-01114-000/BraTS-MEN-01114-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01114-000/BraTS-MEN-01114-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01122-000/BraTS-MEN-01122-000-t2f.nii.gz",
+                "BraTS-MEN-01122-000/BraTS-MEN-01122-000-t1c.nii.gz",
+                "BraTS-MEN-01122-000/BraTS-MEN-01122-000-t1n.nii.gz",
+                "BraTS-MEN-01122-000/BraTS-MEN-01122-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01122-000/BraTS-MEN-01122-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01130-000/BraTS-MEN-01130-000-t2f.nii.gz",
+                "BraTS-MEN-01130-000/BraTS-MEN-01130-000-t1c.nii.gz",
+                "BraTS-MEN-01130-000/BraTS-MEN-01130-000-t1n.nii.gz",
+                "BraTS-MEN-01130-000/BraTS-MEN-01130-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01130-000/BraTS-MEN-01130-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01135-000/BraTS-MEN-01135-000-t2f.nii.gz",
+                "BraTS-MEN-01135-000/BraTS-MEN-01135-000-t1c.nii.gz",
+                "BraTS-MEN-01135-000/BraTS-MEN-01135-000-t1n.nii.gz",
+                "BraTS-MEN-01135-000/BraTS-MEN-01135-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01135-000/BraTS-MEN-01135-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01141-000/BraTS-MEN-01141-000-t2f.nii.gz",
+                "BraTS-MEN-01141-000/BraTS-MEN-01141-000-t1c.nii.gz",
+                "BraTS-MEN-01141-000/BraTS-MEN-01141-000-t1n.nii.gz",
+                "BraTS-MEN-01141-000/BraTS-MEN-01141-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01141-000/BraTS-MEN-01141-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01144-000/BraTS-MEN-01144-000-t2f.nii.gz",
+                "BraTS-MEN-01144-000/BraTS-MEN-01144-000-t1c.nii.gz",
+                "BraTS-MEN-01144-000/BraTS-MEN-01144-000-t1n.nii.gz",
+                "BraTS-MEN-01144-000/BraTS-MEN-01144-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01144-000/BraTS-MEN-01144-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01156-000/BraTS-MEN-01156-000-t2f.nii.gz",
+                "BraTS-MEN-01156-000/BraTS-MEN-01156-000-t1c.nii.gz",
+                "BraTS-MEN-01156-000/BraTS-MEN-01156-000-t1n.nii.gz",
+                "BraTS-MEN-01156-000/BraTS-MEN-01156-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01156-000/BraTS-MEN-01156-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01159-000/BraTS-MEN-01159-000-t2f.nii.gz",
+                "BraTS-MEN-01159-000/BraTS-MEN-01159-000-t1c.nii.gz",
+                "BraTS-MEN-01159-000/BraTS-MEN-01159-000-t1n.nii.gz",
+                "BraTS-MEN-01159-000/BraTS-MEN-01159-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01159-000/BraTS-MEN-01159-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01163-000/BraTS-MEN-01163-000-t2f.nii.gz",
+                "BraTS-MEN-01163-000/BraTS-MEN-01163-000-t1c.nii.gz",
+                "BraTS-MEN-01163-000/BraTS-MEN-01163-000-t1n.nii.gz",
+                "BraTS-MEN-01163-000/BraTS-MEN-01163-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01163-000/BraTS-MEN-01163-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01173-000/BraTS-MEN-01173-000-t2f.nii.gz",
+                "BraTS-MEN-01173-000/BraTS-MEN-01173-000-t1c.nii.gz",
+                "BraTS-MEN-01173-000/BraTS-MEN-01173-000-t1n.nii.gz",
+                "BraTS-MEN-01173-000/BraTS-MEN-01173-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01173-000/BraTS-MEN-01173-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01183-000/BraTS-MEN-01183-000-t2f.nii.gz",
+                "BraTS-MEN-01183-000/BraTS-MEN-01183-000-t1c.nii.gz",
+                "BraTS-MEN-01183-000/BraTS-MEN-01183-000-t1n.nii.gz",
+                "BraTS-MEN-01183-000/BraTS-MEN-01183-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01183-000/BraTS-MEN-01183-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01189-000/BraTS-MEN-01189-000-t2f.nii.gz",
+                "BraTS-MEN-01189-000/BraTS-MEN-01189-000-t1c.nii.gz",
+                "BraTS-MEN-01189-000/BraTS-MEN-01189-000-t1n.nii.gz",
+                "BraTS-MEN-01189-000/BraTS-MEN-01189-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01189-000/BraTS-MEN-01189-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01194-000/BraTS-MEN-01194-000-t2f.nii.gz",
+                "BraTS-MEN-01194-000/BraTS-MEN-01194-000-t1c.nii.gz",
+                "BraTS-MEN-01194-000/BraTS-MEN-01194-000-t1n.nii.gz",
+                "BraTS-MEN-01194-000/BraTS-MEN-01194-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01194-000/BraTS-MEN-01194-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01198-013/BraTS-MEN-01198-013-t2f.nii.gz",
+                "BraTS-MEN-01198-013/BraTS-MEN-01198-013-t1c.nii.gz",
+                "BraTS-MEN-01198-013/BraTS-MEN-01198-013-t1n.nii.gz",
+                "BraTS-MEN-01198-013/BraTS-MEN-01198-013-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01198-013/BraTS-MEN-01198-013-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01218-000/BraTS-MEN-01218-000-t2f.nii.gz",
+                "BraTS-MEN-01218-000/BraTS-MEN-01218-000-t1c.nii.gz",
+                "BraTS-MEN-01218-000/BraTS-MEN-01218-000-t1n.nii.gz",
+                "BraTS-MEN-01218-000/BraTS-MEN-01218-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01218-000/BraTS-MEN-01218-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01220-000/BraTS-MEN-01220-000-t2f.nii.gz",
+                "BraTS-MEN-01220-000/BraTS-MEN-01220-000-t1c.nii.gz",
+                "BraTS-MEN-01220-000/BraTS-MEN-01220-000-t1n.nii.gz",
+                "BraTS-MEN-01220-000/BraTS-MEN-01220-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01220-000/BraTS-MEN-01220-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01229-000/BraTS-MEN-01229-000-t2f.nii.gz",
+                "BraTS-MEN-01229-000/BraTS-MEN-01229-000-t1c.nii.gz",
+                "BraTS-MEN-01229-000/BraTS-MEN-01229-000-t1n.nii.gz",
+                "BraTS-MEN-01229-000/BraTS-MEN-01229-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01229-000/BraTS-MEN-01229-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01240-000/BraTS-MEN-01240-000-t2f.nii.gz",
+                "BraTS-MEN-01240-000/BraTS-MEN-01240-000-t1c.nii.gz",
+                "BraTS-MEN-01240-000/BraTS-MEN-01240-000-t1n.nii.gz",
+                "BraTS-MEN-01240-000/BraTS-MEN-01240-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01240-000/BraTS-MEN-01240-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01246-001/BraTS-MEN-01246-001-t2f.nii.gz",
+                "BraTS-MEN-01246-001/BraTS-MEN-01246-001-t1c.nii.gz",
+                "BraTS-MEN-01246-001/BraTS-MEN-01246-001-t1n.nii.gz",
+                "BraTS-MEN-01246-001/BraTS-MEN-01246-001-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01246-001/BraTS-MEN-01246-001-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01252-000/BraTS-MEN-01252-000-t2f.nii.gz",
+                "BraTS-MEN-01252-000/BraTS-MEN-01252-000-t1c.nii.gz",
+                "BraTS-MEN-01252-000/BraTS-MEN-01252-000-t1n.nii.gz",
+                "BraTS-MEN-01252-000/BraTS-MEN-01252-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01252-000/BraTS-MEN-01252-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01266-000/BraTS-MEN-01266-000-t2f.nii.gz",
+                "BraTS-MEN-01266-000/BraTS-MEN-01266-000-t1c.nii.gz",
+                "BraTS-MEN-01266-000/BraTS-MEN-01266-000-t1n.nii.gz",
+                "BraTS-MEN-01266-000/BraTS-MEN-01266-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01266-000/BraTS-MEN-01266-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01271-000/BraTS-MEN-01271-000-t2f.nii.gz",
+                "BraTS-MEN-01271-000/BraTS-MEN-01271-000-t1c.nii.gz",
+                "BraTS-MEN-01271-000/BraTS-MEN-01271-000-t1n.nii.gz",
+                "BraTS-MEN-01271-000/BraTS-MEN-01271-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01271-000/BraTS-MEN-01271-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01282-000/BraTS-MEN-01282-000-t2f.nii.gz",
+                "BraTS-MEN-01282-000/BraTS-MEN-01282-000-t1c.nii.gz",
+                "BraTS-MEN-01282-000/BraTS-MEN-01282-000-t1n.nii.gz",
+                "BraTS-MEN-01282-000/BraTS-MEN-01282-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01282-000/BraTS-MEN-01282-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01284-000/BraTS-MEN-01284-000-t2f.nii.gz",
+                "BraTS-MEN-01284-000/BraTS-MEN-01284-000-t1c.nii.gz",
+                "BraTS-MEN-01284-000/BraTS-MEN-01284-000-t1n.nii.gz",
+                "BraTS-MEN-01284-000/BraTS-MEN-01284-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01284-000/BraTS-MEN-01284-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01300-000/BraTS-MEN-01300-000-t2f.nii.gz",
+                "BraTS-MEN-01300-000/BraTS-MEN-01300-000-t1c.nii.gz",
+                "BraTS-MEN-01300-000/BraTS-MEN-01300-000-t1n.nii.gz",
+                "BraTS-MEN-01300-000/BraTS-MEN-01300-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01300-000/BraTS-MEN-01300-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01305-000/BraTS-MEN-01305-000-t2f.nii.gz",
+                "BraTS-MEN-01305-000/BraTS-MEN-01305-000-t1c.nii.gz",
+                "BraTS-MEN-01305-000/BraTS-MEN-01305-000-t1n.nii.gz",
+                "BraTS-MEN-01305-000/BraTS-MEN-01305-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01305-000/BraTS-MEN-01305-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01312-000/BraTS-MEN-01312-000-t2f.nii.gz",
+                "BraTS-MEN-01312-000/BraTS-MEN-01312-000-t1c.nii.gz",
+                "BraTS-MEN-01312-000/BraTS-MEN-01312-000-t1n.nii.gz",
+                "BraTS-MEN-01312-000/BraTS-MEN-01312-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01312-000/BraTS-MEN-01312-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01317-000/BraTS-MEN-01317-000-t2f.nii.gz",
+                "BraTS-MEN-01317-000/BraTS-MEN-01317-000-t1c.nii.gz",
+                "BraTS-MEN-01317-000/BraTS-MEN-01317-000-t1n.nii.gz",
+                "BraTS-MEN-01317-000/BraTS-MEN-01317-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01317-000/BraTS-MEN-01317-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01320-000/BraTS-MEN-01320-000-t2f.nii.gz",
+                "BraTS-MEN-01320-000/BraTS-MEN-01320-000-t1c.nii.gz",
+                "BraTS-MEN-01320-000/BraTS-MEN-01320-000-t1n.nii.gz",
+                "BraTS-MEN-01320-000/BraTS-MEN-01320-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01320-000/BraTS-MEN-01320-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01334-000/BraTS-MEN-01334-000-t2f.nii.gz",
+                "BraTS-MEN-01334-000/BraTS-MEN-01334-000-t1c.nii.gz",
+                "BraTS-MEN-01334-000/BraTS-MEN-01334-000-t1n.nii.gz",
+                "BraTS-MEN-01334-000/BraTS-MEN-01334-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01334-000/BraTS-MEN-01334-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01335-000/BraTS-MEN-01335-000-t2f.nii.gz",
+                "BraTS-MEN-01335-000/BraTS-MEN-01335-000-t1c.nii.gz",
+                "BraTS-MEN-01335-000/BraTS-MEN-01335-000-t1n.nii.gz",
+                "BraTS-MEN-01335-000/BraTS-MEN-01335-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01335-000/BraTS-MEN-01335-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01348-000/BraTS-MEN-01348-000-t2f.nii.gz",
+                "BraTS-MEN-01348-000/BraTS-MEN-01348-000-t1c.nii.gz",
+                "BraTS-MEN-01348-000/BraTS-MEN-01348-000-t1n.nii.gz",
+                "BraTS-MEN-01348-000/BraTS-MEN-01348-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01348-000/BraTS-MEN-01348-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01351-000/BraTS-MEN-01351-000-t2f.nii.gz",
+                "BraTS-MEN-01351-000/BraTS-MEN-01351-000-t1c.nii.gz",
+                "BraTS-MEN-01351-000/BraTS-MEN-01351-000-t1n.nii.gz",
+                "BraTS-MEN-01351-000/BraTS-MEN-01351-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01351-000/BraTS-MEN-01351-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01365-000/BraTS-MEN-01365-000-t2f.nii.gz",
+                "BraTS-MEN-01365-000/BraTS-MEN-01365-000-t1c.nii.gz",
+                "BraTS-MEN-01365-000/BraTS-MEN-01365-000-t1n.nii.gz",
+                "BraTS-MEN-01365-000/BraTS-MEN-01365-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01365-000/BraTS-MEN-01365-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01366-000/BraTS-MEN-01366-000-t2f.nii.gz",
+                "BraTS-MEN-01366-000/BraTS-MEN-01366-000-t1c.nii.gz",
+                "BraTS-MEN-01366-000/BraTS-MEN-01366-000-t1n.nii.gz",
+                "BraTS-MEN-01366-000/BraTS-MEN-01366-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01366-000/BraTS-MEN-01366-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01370-000/BraTS-MEN-01370-000-t2f.nii.gz",
+                "BraTS-MEN-01370-000/BraTS-MEN-01370-000-t1c.nii.gz",
+                "BraTS-MEN-01370-000/BraTS-MEN-01370-000-t1n.nii.gz",
+                "BraTS-MEN-01370-000/BraTS-MEN-01370-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01370-000/BraTS-MEN-01370-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01383-006/BraTS-MEN-01383-006-t2f.nii.gz",
+                "BraTS-MEN-01383-006/BraTS-MEN-01383-006-t1c.nii.gz",
+                "BraTS-MEN-01383-006/BraTS-MEN-01383-006-t1n.nii.gz",
+                "BraTS-MEN-01383-006/BraTS-MEN-01383-006-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01383-006/BraTS-MEN-01383-006-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01389-000/BraTS-MEN-01389-000-t2f.nii.gz",
+                "BraTS-MEN-01389-000/BraTS-MEN-01389-000-t1c.nii.gz",
+                "BraTS-MEN-01389-000/BraTS-MEN-01389-000-t1n.nii.gz",
+                "BraTS-MEN-01389-000/BraTS-MEN-01389-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01389-000/BraTS-MEN-01389-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01392-000/BraTS-MEN-01392-000-t2f.nii.gz",
+                "BraTS-MEN-01392-000/BraTS-MEN-01392-000-t1c.nii.gz",
+                "BraTS-MEN-01392-000/BraTS-MEN-01392-000-t1n.nii.gz",
+                "BraTS-MEN-01392-000/BraTS-MEN-01392-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01392-000/BraTS-MEN-01392-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01403-000/BraTS-MEN-01403-000-t2f.nii.gz",
+                "BraTS-MEN-01403-000/BraTS-MEN-01403-000-t1c.nii.gz",
+                "BraTS-MEN-01403-000/BraTS-MEN-01403-000-t1n.nii.gz",
+                "BraTS-MEN-01403-000/BraTS-MEN-01403-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01403-000/BraTS-MEN-01403-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01416-000/BraTS-MEN-01416-000-t2f.nii.gz",
+                "BraTS-MEN-01416-000/BraTS-MEN-01416-000-t1c.nii.gz",
+                "BraTS-MEN-01416-000/BraTS-MEN-01416-000-t1n.nii.gz",
+                "BraTS-MEN-01416-000/BraTS-MEN-01416-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01416-000/BraTS-MEN-01416-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01423-000/BraTS-MEN-01423-000-t2f.nii.gz",
+                "BraTS-MEN-01423-000/BraTS-MEN-01423-000-t1c.nii.gz",
+                "BraTS-MEN-01423-000/BraTS-MEN-01423-000-t1n.nii.gz",
+                "BraTS-MEN-01423-000/BraTS-MEN-01423-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01423-000/BraTS-MEN-01423-000-seg.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "BraTS-MEN-01429-000/BraTS-MEN-01429-000-t2f.nii.gz",
+                "BraTS-MEN-01429-000/BraTS-MEN-01429-000-t1c.nii.gz",
+                "BraTS-MEN-01429-000/BraTS-MEN-01429-000-t1n.nii.gz",
+                "BraTS-MEN-01429-000/BraTS-MEN-01429-000-t2w.nii.gz"
+            ],
+            "label": "BraTS-MEN-01429-000/BraTS-MEN-01429-000-seg.nii.gz"
+        }
+    ]
+}
