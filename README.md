@@ -9,6 +9,6 @@ Project Name : Brain Tumor Segmentation using Label-specific SwinUNETR and Featu
     - output : `SwinUNETR_et.pt`, `SwinUNETR_tc.pt`, `SwinUNETR_flair.pt`
 3. 위에서 학습된 모델들을 **`test_SwinUNETR.ipynb`** 에서 inference & test
 4. **`train_Feature_Fusion.py`** 에서 fusion하는 과정을 cnn으로 학습
-    - input : `SwinUNETR_et.pt`, `SwinUNETR_tc.pt`, `SwinUNETR_flair.pt`
+    - input : `SwinUNETR_et.pt`에서 나온 probability map, `SwinUNETR_tc.pt`에서 나온 probability map, `SwinUNETR_flair.pt`에서 나온 probability map
     - output : `Best_Fusion.pth`
 5. **`test_Feature_Fusion_SwinUNETR.ipynb`** 로 최종 결과 test
