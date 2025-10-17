@@ -1,5 +1,5 @@
 # AIM
-Project Name : Brain Tumor Segmentation using Label-specific SwinUNETR and Feature Fusion
+## Project Name : Brain Tumor Segmentation using Label-specific SwinUNETR and Feature Fusion
 
 <img width="784" height="443" alt="image" src="https://github.com/user-attachments/assets/54db6779-7eb6-42c8-8d66-d671836205e0" />
 
